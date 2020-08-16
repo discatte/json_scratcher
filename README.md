@@ -1,6 +1,6 @@
 - put a file 'big.json' in same directory.
 - edit chunk size in scratcher js file
-- scratch that json
+- scratch that json `node json_scratcher.js`
 
 ```
  ___________
