@@ -8,7 +8,7 @@ console.log("Big file has", json_object.length, "entries");
 
 var iteration;
 var number_of_chunks = Math.ceil(json_object.length/chunk_size);
-console.log("Splitting into", number_of_chunks, "files");
+console.log("Scratching into", number_of_chunks, "files");
 
 for(iteration = 0; iteration < number_of_chunks; iteration++)
 {
